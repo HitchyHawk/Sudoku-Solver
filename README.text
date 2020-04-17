@@ -1,0 +1,27 @@
+   _____   _    _   _____     ____    _  __  _    _     
+  / ____| | |  | | |  __ \   / __ \  | |/ / | |  | |    
+ | (___   | |  | | | |  | | | |  | | | ' /  | |  | |    
+  \___ \  | |  | | | |  | | | |  | | |  <   | |  | |    
+  ____) | | |__| | | |__| | | |__| | | . \  | |__| |    
+ |_____/   \____/  |_____/  _\____/ _|_|\_\__\____/___  
+  / ____|  / __ \  | |      \ \    / / |  ____| |  __ \ 
+ | (___   | |  | | | |       \ \  / /  | |__    | |__) |
+  \___ \  | |  | | | |        \ \/ /   |  __|   |  _  / 
+  ____) | | |__| | | |____     \  /    | |____  | | \ \ 
+ |_____/   \____/  |______|     \/     |______| |_|  \_\
+                                                        
+-----------------------------------------------------------
+Made around March 2019
+-----------------------------------------------------------
+This was for Problem 96 on Project Euler: https://projecteuler.net/problem=96
+
+This was an attempt at it. I was not succesfull but I got very deep into it.
+It could solve or get boards to a state that was nearly complete. 
+
+The big problem with this... problem is that you need to look several steps ahead sometimes.
+That is alot harder to code then I initially thought. I coded this to look 2 steps ahead (I think, its been a year since I've seen this code)
+
+Alot of people brute forced the answer by simply doing the sudoku puzzels or writing a parser and formatter to make it look nice.
+Then they would give it to one of there parents to solve. 
+
+I wanted to build a solver. 
